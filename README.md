@@ -5,4 +5,4 @@ Intro course material for udacity self driving car intro course
 Units:
 
 1. bayesian thinking (intro stats)
-
+2. matrices in python (into lin alg)
